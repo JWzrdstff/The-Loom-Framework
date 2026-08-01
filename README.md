@@ -1,6 +1,6 @@
 # The-Loom-Framework
 
-To use: copy and paste the contents of The Loom Framework.txt into a new ai chat and submit.
+To use: copy and paste the contents of The Loom Framework_OG.txt into a new ai chat and submit.
 
 ---
 
